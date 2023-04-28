@@ -26,27 +26,6 @@
           <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0dexie001108mjpe840rev/project/3069199" alt="hubrygo's 42 ft_printf Score" /></a></td>
         </tr>
     </tbody>
-                                </table></td><td>|</td>
-                        <td><table>
-        <thead>
-        <tr>
-          <th colspan="2">Projects | circle 1</th>
-        </tr>
-          </thead>
-          <tbody>
-        <tr>
-          <td>So_long</td>
-          <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9wz0yjx00400fmj9wvknyyb/project/2966599" alt="hubrygo's 42 so_long Score" /></a></td>
-        </tr>
-        <tr>
-          <td>Push_swap</td>
-          <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9wz0yjx00400fmj9wvknyyb/project/3016846" alt="hubrygo's 42 push_swap Score" /></a></td>
-        </tr>
-                  <tr>
-          <td>Pipex</td>
-          <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9wz0yjx00400fmj9wvknyyb/project/3037632" alt="hubrygo's 42 pipex Score" /></a></td>
-        </tr>
-    </tbody>
   </table></td>
                 </tr>
         </tbody>
