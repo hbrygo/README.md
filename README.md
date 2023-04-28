@@ -11,7 +11,7 @@
           <tbody>
         <tr>
           <td>Libft</td>
-          <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0dexie001108mjpe840rev/stats?cursusId=21&coalitionId=54)](https://github.com/JaeSeoKim/badge42" alt="hubrygo's 42 Libft Score"/></a></td>
+          <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0dexie001108mjpe840rev/stats?cursusId=21&coalitionId=54" alt="hubrygo's 42 Libft Score"/></a></td>
         </tr>
         <tr>
           <td>ft_printf</td>
