@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9wz0yjx00400fmj9wvknyyb/stats?cursusId=21&coalitionId=52" alt="fgeorgea's 42 stats" /></a></p>
+<p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9wz0yjx00400fmj9wvknyyb/stats?cursusId=21&coalitionId=52" alt="hubrygo's 42 stats" /></a></p>
 <table>
         <tbody>
                 <tr>
