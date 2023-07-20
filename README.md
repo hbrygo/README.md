@@ -53,11 +53,11 @@
     </tbody>
                                 </table></td><td>|</td>
                         <!-- <td><table> -->
-        <thead>
+        <!-- <thead> -->
         <tr>
           <th colspan="2">Projects | circle 3</th>
         </tr>
-          </thead>
+          <!-- </thead> -->
           <tbody>
         <tr>
           <td>MiniShell</td>
