@@ -26,7 +26,52 @@
           <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0dexie001108mjpe840rev/project/3071753" alt="hubrygo's 42 Born2beroot Score" /></a></td>
         </tr>
     </tbody>
-  </table></td>
-                </tr>
-        </tbody>
+    <tbody>
+        <tr>
+            <td><table>
+        <thead>
+        <tr>
+          <th colspan="2">Projects | circle 2</th>
+        </tr>
+          </thead>
+          <tbody>
+        <tr>
+          <td>Push_Swap</td>
+          <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0dexie001108mjpe840rev/project/3084729" alt="hubrygo's 42 push_swap Score" /></a></td>
+        </tr>
+        <tr>
+          <td>So_Long</td>
+          <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0dexie001108mjpe840rev/project/3099531" alt="hubrygo's 42 so_long Score" /></a></td>
+        </tr>
+        <tr>
+          <td>Minitalk</td>
+          <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0dexie001108mjpe840rev/project/3109715" alt="hubrygo's 42 minitalk Score" /></a></td>
+        </tr>
+        <tr>
+          <td>Exam_Rank_2</td>
+          <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0dexie001108mjpe840rev/project/3092404" alt="hubrygo's 42 Exam Rank 02 Score" /></a></td>
+        </tr>
+    </tbody>
+   <tbody>
+        <tr>
+            <td><table>
+        <thead>
+        <tr>
+          <th colspan="2">Projects | circle 3</th>
+        </tr>
+          </thead>
+          <tbody>
+        <tr>
+          <td>MiniShell</td>
+          <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0dexie001108mjpe840rev/project/3134625" alt="hubrygo's 42 minishell Score" /></a></td>
+        </tr>
+        <!-- <tr>
+          <td>Philosopher</td>
+          <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0dexie001108mjpe840rev/project/3099531" alt="hubrygo's 42 so_long Score" /></a></td>
+        </tr>
+        <tr>
+          <td>Exam_Rank_3</td>
+          <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0dexie001108mjpe840rev/project/3109715" alt="hubrygo's 42 minitalk Score" /></a></td>
+        </tr> -->
+    </tbody>
 </table>
