@@ -26,7 +26,7 @@
           <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0dexie001108mjpe840rev/project/3071753" alt="hubrygo's 42 Born2beroot Score" /></a></td>
 </tr>
     </tbody>
-                                </table></td><td>|</td>
+                                </table></td>
                         <td><table>
         <thead>
         <tr>
