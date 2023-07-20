@@ -52,7 +52,7 @@
 </tr>
     </tbody>
                                 </table></td><td>|</td>
-                        <td><table>
+                        <!-- <td><table> -->
         <thead>
         <tr>
           <th colspan="2">Projects | circle 3</th>
