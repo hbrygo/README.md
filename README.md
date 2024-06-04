@@ -74,3 +74,5 @@
         </table>
     </tbody>
 </table>
+
+[![42 Project Score](https://42-project-badge.glitch.me/users/hubrygo/project/PROJECT42)](https://github.com/ricardoreves/42-project-badge)
