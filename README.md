@@ -12,14 +12,62 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hbrygo&show_icons=true" />
 </picture>
 
+<!--  
+minishell 8 months ago
+100
+Philosophers 7 months ago
+100
+push_swap a year ago
+84
+Born2beroot a year ago
+110
+CPP Module 00 6 months ago
+80
+CPP Module 01 4 months ago
+90
+CPP Module 02 3 months ago
+80
+CPP Module 03 3 months ago
+80
+CPP Module 04 2 months ago
+80
+CPP Module 05 2 months ago
+100
+CPP Module 06 2 months ago
+100
+CPP Module 07 2 months ago
+100
+CPP Module 08 2 months ago
+100
+CPP Module 09 2 months ago
+0
+cub3d 6 months ago
+125
+Exam Rank 02 a year ago
+100
+Exam Rank 03 9 months ago
+100
+Exam Rank 04 7 months ago
+100
+minitalk a year ago
+115
+NetPractice 6 months ago
+100
+so_long a year ago
+125
+ -->
+
 <details open> 
   <summary><h2>📘 My Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/hbrygo/libft"><img width="278" src="https://github.com/hbrygo/libft" alt="Libft"></a>
-    <!-- <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/hbrygo/libft"><img width="278" src="https://github.com/hbrygo/libft" alt="Libft 124%"></a>
+    <a href="https://github.com/hbrygo/printf"><img width="278" src="https://github.com/hbrygo/printf" alt="Printf 100%"></a>
+    <a href="https://github.com/hbrygo/gnl"><img width="278" src="https://github.com/hbrygo/gnl" alt="Get Next Line 105%"></a>
+    <a href=""><img width="278" src="" alt="BornToBeRoot 110%"></a>
+    <a href=""><img width="278" src="" alt="SoLong 100%"></a>
     <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
     <a href="https://github.com/DenverCoder1/unedit-for-reddit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
