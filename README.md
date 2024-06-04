@@ -18,22 +18,21 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/hbrygo/libft"><img width="278" src="https://github.com/hbrygo/libft" alt="Libft 124%"></a>
-    <a href="https://github.com/hbrygo/printf"><img width="278" src="https://github.com/hbrygo/printf" alt="Printf 100%"></a>
-  </p>
-    <a href="https://github.com/hbrygo/gnl"><img width="278" src="https://github.com/hbrygo/gnl" alt="Get Next Line 105%"></a>
-    <a href=""><img width="278" src="" alt="BornToBeRoot 110%"></a>
-    <a href="https://github.com/hbrygo/PushSwap"><img width="278" src="https://github.com/hbrygo/PushSwap" alt="Push_Swap 84%"></a>
-    <a href="https://github.com/hbrygo/so_long"><img width="278" src="https://github.com/hbrygo/so_long" alt="So_Long 125%"></a>
-    <a href="https://github.com/hbrygo/minitalk"><img width="278" src="https://github.com/hbrygo/minitalk" alt="Minitalk 115%"></a>
-    <a href=""><img width="278" src="" alt="Minishell 100%"></a>
-    <a href="https://github.com/hbrygo/philo"><img width="278" src="https://github.com/hbrygo/philo" alt="Philosophers 100%"></a>
-    <a href=""><img width="278" src="" alt="NetPractice 100%"></a>
-    <a href="https://github.com/hbrygo/cub3D"><img width="278" src="https://github.com/hbrygo/cub3D" alt="Cub3D 125%"></a>
-    <a href=""><img width="278" src="" alt="NetPractice 100%"></a>
-    <a href="https://github.com/hbrygo/CPP"><img width="278" src="https://github.com/hbrygo/CPP" alt="CPP"></a>
-</details>
     <a href="https://github.com/hbrygo/libft"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hbrygo&repo=libft&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Libft 124%"></a>
+    <a href="https://github.com/hbrygo/printf"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hbrygo&repo=printf&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Printf 100%"></a>
+  </p>
+    <a href="https://github.com/hbrygo/gnl"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hbrygo&repo=gnl&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Get Next Line 105%"></a>
+    <a href=""><img width="278" src="" alt="BornToBeRoot 110%"></a>
+    <a href="https://github.com/hbrygo/PushSwap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hbrygo&repo=PushSwap&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Push_Swap 84%"></a>
+    <a href="https://github.com/hbrygo/so_long"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hbrygo&repo=so_long&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="So_Long 125%"></a>
+    <a href="https://github.com/hbrygo/minitalk"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hbrygo&repo=minitalk&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Minitalk 115%"></a>
+    <a href=""><img width="278" src="" alt="Minishell 100%"></a>
+    <a href="https://github.com/hbrygo/philo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hbrygo&repo=philo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Philosophers 100%"></a>
+    <a href=""><img width="278" src="" alt="NetPractice 100%"></a>
+    <a href="https://github.com/hbrygo/cub3D"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hbrygo&repo=cub3D&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Cub3D 125%"></a>
+    <a href=""><img width="278" src="" alt="NetPractice 100%"></a>
+    <a href="https://github.com/hbrygo/CPP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hbrygo&repo=CPP&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="CPP"></a>
+</details>
   <!-- <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a> -->
 
 <!-- <details open> 
