@@ -19,7 +19,10 @@
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/hbrygo/libft"><img width="278" src="https://github.com/hbrygo/libft" alt="Libft 124%"></a>
+  </p>
+  <p align="right">
     <a href="https://github.com/hbrygo/printf"><img width="278" src="https://github.com/hbrygo/printf" alt="Printf 100%"></a>
+  </p>
     <a href="https://github.com/hbrygo/gnl"><img width="278" src="https://github.com/hbrygo/gnl" alt="Get Next Line 105%"></a>
     <a href=""><img width="278" src="" alt="BornToBeRoot 110%"></a>
     <a href="https://github.com/hbrygo/PushSwap"><img width="278" src="https://github.com/hbrygo/PushSwap" alt="Push_Swap 84%"></a>
@@ -31,7 +34,6 @@
     <a href="https://github.com/hbrygo/cub3D"><img width="278" src="https://github.com/hbrygo/cub3D" alt="Cub3D 125%"></a>
     <a href=""><img width="278" src="" alt="NetPractice 100%"></a>
     <a href="https://github.com/hbrygo/CPP"><img width="278" src="https://github.com/hbrygo/CPP" alt="CPP"></a>
-  </p>
 </details>
   <!-- <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a> -->
 
