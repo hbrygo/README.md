@@ -19,8 +19,6 @@
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/hbrygo/libft"><img width="278" src="https://github.com/hbrygo/libft" alt="Libft 124%"></a>
-  </p>
-  <p align="right">
     <a href="https://github.com/hbrygo/printf"><img width="278" src="https://github.com/hbrygo/printf" alt="Printf 100%"></a>
   </p>
     <a href="https://github.com/hbrygo/gnl"><img width="278" src="https://github.com/hbrygo/gnl" alt="Get Next Line 105%"></a>
