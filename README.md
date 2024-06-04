@@ -1,5 +1,3 @@
-![hbrygo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbrygo&show_icons=true&bg_color=00000000)
-
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/hubrygo?1337Badge=off&UM6P=off" alt="hubrygo's 42 stats" /></a>
 
 <picture>
@@ -13,3 +11,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=hbrygo&show_icons=true" />
 </picture>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
