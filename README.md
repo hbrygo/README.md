@@ -3,7 +3,7 @@
 <details open> 
   <summary><h2>📘 My Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/hbrygo/libft"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hbrygo&repo=libft 124%&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Libft 124%"></a>
+    <a href="https://github.com/hbrygo/libft"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hbrygo&repo=libft_124%&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Libft 124%"></a>
     <a href="https://github.com/hbrygo/printf"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hbrygo&repo=printf&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Printf 100%"></a>
     <a href="https://github.com/hbrygo/gnl"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hbrygo&repo=gnl&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Get Next Line 105%"></a>
     <a href="https://github.com/hbrygo/Push-swap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hbrygo&repo=Push-swap&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Push_Swap 84%"></a>
